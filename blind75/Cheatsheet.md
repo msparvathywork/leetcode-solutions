@@ -1,5 +1,29 @@
 # Python Input Patterns Cheat Sheet
 
+Built-in funcs in Python:
+len(arr)
+
+sum(arr)
+
+max(arr)
+
+min(arr)
+
+abs(-5)
+
+round(3.14)
+
+sorted(arr)
+
+reversed(arr)
+
+zip(a, b)
+
+enumerate(arr)
+
+---
+
+
 int(input())
 
 list(map(int, input().split()))
