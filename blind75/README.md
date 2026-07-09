@@ -16,7 +16,7 @@ A curated collection of solutions for the Blind 75 coding interview problems.(in
 ### Arrays & Hashing (10)
 
 - [x] 1. Two Sum (#1)
-- [ ] 121. Best Time to Buy and Sell Stock (#121)
+- [x] 121. Best Time to Buy and Sell Stock (#121)
 - [ ] 217. Contains Duplicate (#217)
 - [ ] 238. Product of Array Except Self (#238)
 - [ ] 53. Maximum Subarray (#53)
